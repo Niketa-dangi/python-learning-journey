@@ -24,3 +24,8 @@ This repository contains my Python learning journey.
 To build a strong foundation in Python and Data Analytics.
 
 Created by Niketa Dangi.
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- GitHub: https://github.com/Niketa-dangi

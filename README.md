@@ -27,5 +27,5 @@ Created by Niketa Dangi.
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- LinkedIn:https://www.linkedin.com/in/niketa-dangi-bbb3533bb
 - GitHub: https://github.com/Niketa-dangi
